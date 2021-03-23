@@ -1,0 +1,15 @@
+{
+  "ernVersion": "0.43.0",
+  "jsApiImpls": [],
+  "miniApps": [
+    "file:/Users/asendar/pc-mobile/program-sdk/electrode"
+  ],
+  "nativeDeps": [
+    "react-native@0.63.2",
+    "ernnavigation-api@1.3.0",
+    "ernnavigation-api-impl-native@1.5.2",
+    "react-native-fast-image@8.1.5",
+    "react-native-electrode-bridge@1.5.27"
+  ],
+  "platform": "ios"
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-native": "0.63.2",
+    "react-native-electrode-bridge": "1.5.27",
+    "react-native-fast-image": "8.1.5"
+  },
+  "name": "container",
+  "private": true
+}
